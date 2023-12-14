@@ -86,7 +86,7 @@ public class CzechLanguagePack extends LanguagePack {
                             < é,É < ě,Ě < f,F < g,G < h,H < ch,CH < i,I < í,Í < j,J \
                             < k,K < l,L < m,M < n,N < ň,Ň < o,O < ó,Ó < p,P < q,Q \
                             < r,R < ř,Ř < s,S < š,Š < t,T < ť,Ť < u,U < ů,Ů < ú,Ú \
-                            < v,V < w,W < x,X < y,Y < z,Z < ž,Ž\
+                            < v,V < w,W < x,X < y,Y < ý,Ý < z,Z < ž,Ž\
                             """
             );
         }
