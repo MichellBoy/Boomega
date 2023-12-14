@@ -2,6 +2,7 @@
   "fallback" : "com.dansoftware.boomega.i18n.EnglishLanguagePack",
   "classNames" : [
     "com.dansoftware.boomega.i18n.HungarianLanguagePack",
-    "com.dansoftware.boomega.i18n.TurkishLanguagePack"
+    "com.dansoftware.boomega.i18n.TurkishLanguagePack",
+    "com.dansoftware.boomega.i18n.CzechLanguagePack"
   ]
 }
